@@ -6,6 +6,6 @@
 
 **Pandas 文章列表**
 
-* 浅谈 Pandas 样式
+* 浅谈 Pandas 样式（Pandas_Styling.ipynb）
 
-* Pandas0.25来了，别错过这10大好用的新功能
+* Pandas0.25来了，别错过这10大好用的新功能（10_New_Features_in_Pandas_0.25.ipynb）

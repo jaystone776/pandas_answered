@@ -10,4 +10,4 @@
 
 * Pandas0.25 来了，别错过这 10 大好用的新功能（10_New_Features_in_Pandas_0.25.ipynb）
 
-* PyCon 大咖亲传 pandas 25 式（25_Pandas_Tips_by_PyCon_Master.ipynb），data 数据在 **25_Pandas_Tips_by_PyCon_Master_data.zip** 里
+* PyCon 大咖亲传 pandas 25 式（25_Pandas_Tips_by_PyCon_Master.ipynb），使用的数据在 **data** 目录的 zip 文件里

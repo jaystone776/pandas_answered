@@ -8,4 +8,6 @@
 
 * 浅谈 Pandas 样式（Pandas_Styling.ipynb）
 
-* Pandas0.25来了，别错过这10大好用的新功能（10_New_Features_in_Pandas_0.25.ipynb）
+* Pandas0.25 来了，别错过这 10 大好用的新功能（10_New_Features_in_Pandas_0.25.ipynb）
+
+* PyCon 大咖亲传 pandas 25 式（25_Pandas_Tips_by_PyCon_Master.ipynb），data 数据在 **25_Pandas_Tips_by_PyCon_Master_data.zip** 里

@@ -11,7 +11,9 @@
 * Pandas0.25 来了，别错过这 10 大好用的新功能（10_New_Features_in_Pandas_0.25.ipynb）
 
 * PyCon 大咖亲传 pandas 25 式（25_Pandas_Tips_by_PyCon_Master.ipynb）
+
 数据在 **data** 目录的 **25_Pandas_Tips_by_PyCon_Master_data.zip** 文件里
 
 * 官方调研重磅发布，Pandas或将重构？（pandas_2019_survey.ipynb）
+
 数据在 **data** 目录的 **2019.csv.zip** 文件里 

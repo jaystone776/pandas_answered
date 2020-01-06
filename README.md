@@ -17,3 +17,7 @@
 * 官方调研重磅发布，Pandas或将重构？（pandas_2019_survey.ipynb）
 
   * 数据在 **data** 目录的 **2019.csv.zip** 文件里 
+  
+* Pandas 还能这么玩儿？这么排序才叫真功夫！
+  * 自定义排序.ipynb，数据文件在 **data** 目录的 **自定义排序.xlsx** 文件里
+
